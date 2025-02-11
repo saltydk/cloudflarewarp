@@ -43,5 +43,5 @@
 [experimental]
   [experimental.plugins]
     [experimental.plugins.cloudflarewarp]
-      moduleName = "github.com/BetterCorp/cloudflarewarp"
-      version = "v1.3.0"
+      moduleName = "github.com/saltydk/cloudflarewarp"
+      version = "v1.0.0"
