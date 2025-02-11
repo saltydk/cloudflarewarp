@@ -28,7 +28,7 @@ if [ "${3}" = "stack" ]; then
   docker stack deploy -c docker-stack.yml test-instance;
   sleep 1s;
 else
-  docker-compose up -d;
+  docker compose up -d;
   sleep 1s;
 fi
 
@@ -62,6 +62,6 @@ if [ "${3}" = "stack" ] ; then
   sleep 1s;
 else
   sleep 1s;
-  docker-compose down;
+  docker compose down;
 fi
 
