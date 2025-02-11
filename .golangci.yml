@@ -25,6 +25,16 @@ linters-settings:
       - FIXME
   gofumpt:
     extra-rules: true
+  depguard:
+    rules:
+      test:
+        files:
+          - $test
+        allow:
+          - $gostd
+          - github.com/saltydk/cloudflarewarp
+          - github.com/saltydk/cloudflarewarp/ips
+
 
 linters:
   enable-all: true
