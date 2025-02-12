@@ -1,6 +1,6 @@
 # Real IP from Cloudflare Proxy/Tunnel
 
-[![Code Coverage](https://codecov.io/gh/saltydk/cloudflarewarp/branch/master/graph/badge.svg?token=QFGZS5QJSG)](https://codecov.io/gh/saltydk/cloudflarewarp)
+[![Code Coverage](https://codecov.io/gh/saltydk/cloudflarewarp/graph/badge.svg?token=O50I70GOYR)](https://codecov.io/gh/saltydk/cloudflarewarp)
 [![Code Analysis](https://github.com/saltydk/cloudflarewarp/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/saltydk/cloudflarewarp/actions/workflows/codeql-analysis.yml)
 [![Codacy Security Scan](https://github.com/saltydk/cloudflarewarp/actions/workflows/codacy-analysis.yml/badge.svg)](https://github.com/saltydk/cloudflarewarp/actions/workflows/codacy-analysis.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/saltydk/cloudflarewarp)](https://goreportcard.com/report/github.com/saltydk/cloudflarewarp)
