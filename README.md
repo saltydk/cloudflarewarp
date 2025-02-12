@@ -38,7 +38,7 @@ experimental:
   plugins:
     cloudflarewarp:
       moduleName: github.com/saltydk/cloudflarewarp
-      version: v1.0.0
+      version: v1.0.1
 ```
 
 ### Plugin configuration
