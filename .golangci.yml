@@ -39,15 +39,6 @@ linters-settings:
 linters:
   enable-all: true
   disable:
-    - deadcode # deprecated
-    - varcheck # deprecated
-    - structcheck # deprecated
-    - nosnakecase # deprecated
-    - interfacer # deprecated
-    - maligned # deprecated
-    - scopelint # deprecated
-    - golint # deprecated
-    - exhaustivestruct # deprecated
     - cyclop # duplicate of gocyclo
     - bodyclose # Too many false positives: https://github.com/timakin/bodyclose/issues/30
     - dupl
@@ -58,7 +49,7 @@ linters:
     - wsl
     - exhaustive
     - exhaustruct
-    - goerr113
+    - err113
     - wrapcheck
     - ifshort
     - noctx
